@@ -1,0 +1,25 @@
+ #c1,#c2,#c3,#c4{
+        background-color:orange;
+        color:white;
+        width:60px;
+        height:40px;
+        font-size:20px;
+    }
+    #cc{
+        background-color:orange;
+        color:white;
+        width:60px;
+        height:180px;
+        font-size:20px;
+    }
+    #b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9,#b0,#b11,#bc{
+        background-color:white;
+        color:black;
+        width:60px;
+        height:40px;
+        font-size:20px;
+    }
+.value-center{
+    margin-top:100px;
+    margin-left: 600px;
+}
